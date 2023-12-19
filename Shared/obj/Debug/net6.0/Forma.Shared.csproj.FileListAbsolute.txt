@@ -1,0 +1,11 @@
+C:\Users\Twist\Desktop\Forma\Shared\bin\Debug\net6.0\Forma.Shared.deps.json
+C:\Users\Twist\Desktop\Forma\Shared\bin\Debug\net6.0\Forma.Shared.dll
+C:\Users\Twist\Desktop\Forma\Shared\bin\Debug\net6.0\Forma.Shared.pdb
+C:\Users\Twist\Desktop\Forma\Shared\obj\Debug\net6.0\Forma.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Twist\Desktop\Forma\Shared\obj\Debug\net6.0\Forma.Shared.AssemblyInfoInputs.cache
+C:\Users\Twist\Desktop\Forma\Shared\obj\Debug\net6.0\Forma.Shared.AssemblyInfo.cs
+C:\Users\Twist\Desktop\Forma\Shared\obj\Debug\net6.0\Forma.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Twist\Desktop\Forma\Shared\obj\Debug\net6.0\Forma.Shared.dll
+C:\Users\Twist\Desktop\Forma\Shared\obj\Debug\net6.0\refint\Forma.Shared.dll
+C:\Users\Twist\Desktop\Forma\Shared\obj\Debug\net6.0\Forma.Shared.pdb
+C:\Users\Twist\Desktop\Forma\Shared\obj\Debug\net6.0\ref\Forma.Shared.dll
