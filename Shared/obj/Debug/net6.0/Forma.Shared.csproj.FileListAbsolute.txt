@@ -9,3 +9,15 @@ C:\Users\Twist\Desktop\Forma\Shared\obj\Debug\net6.0\Forma.Shared.dll
 C:\Users\Twist\Desktop\Forma\Shared\obj\Debug\net6.0\refint\Forma.Shared.dll
 C:\Users\Twist\Desktop\Forma\Shared\obj\Debug\net6.0\Forma.Shared.pdb
 C:\Users\Twist\Desktop\Forma\Shared\obj\Debug\net6.0\ref\Forma.Shared.dll
+E:\Forma\Shared\bin\Debug\net6.0\Forma.Shared.deps.json
+E:\Forma\Shared\bin\Debug\net6.0\Forma.Shared.dll
+E:\Forma\Shared\bin\Debug\net6.0\Forma.Shared.pdb
+E:\Forma\Shared\obj\Debug\net6.0\Forma.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Forma\Shared\obj\Debug\net6.0\Forma.Shared.AssemblyInfoInputs.cache
+E:\Forma\Shared\obj\Debug\net6.0\Forma.Shared.AssemblyInfo.cs
+E:\Forma\Shared\obj\Debug\net6.0\Forma.Shared.csproj.CoreCompileInputs.cache
+E:\Forma\Shared\obj\Debug\net6.0\Forma.Shared.sourcelink.json
+E:\Forma\Shared\obj\Debug\net6.0\Forma.Shared.dll
+E:\Forma\Shared\obj\Debug\net6.0\refint\Forma.Shared.dll
+E:\Forma\Shared\obj\Debug\net6.0\Forma.Shared.pdb
+E:\Forma\Shared\obj\Debug\net6.0\ref\Forma.Shared.dll

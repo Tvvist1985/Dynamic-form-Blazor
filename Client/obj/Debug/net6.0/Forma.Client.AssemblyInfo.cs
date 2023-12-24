@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Forma.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea56daa7763cf78e8d6fd6231220d39abfffe2f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Forma.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Forma.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

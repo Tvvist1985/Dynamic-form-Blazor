@@ -1,8 +1,8 @@
+using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Mvc;
 using Model;
-using System.Reflection;
+using Model.DTO;
 using System.Text.Json;
-using System.Text.Json.Serialization;
 
 
 namespace Forma.Server.Controllers
@@ -21,27 +21,27 @@ namespace Forma.Server.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            List<object> data = new()
+            List<IInputForForm<object>> data = new ()
             {
-                new Date(DateTime.Now, "Date"),
-                new RadioButton(false,"RadioButton"),
-                new TextInput("Text1", "TextInput"),
-                new Date(DateTime.Now,"Date"),
-                new TextInput("Text2", "TextInput")               
+                new InputDTO<IFormType<bool>>(new CheckInput(false),"RadioButton"),
+                new InputDTO<IFormType<DateTime>>(new DateInput(DateTime.Now),"Date"),
+                new InputDTO<IFormType<string>>(new TextInput("Text1"),"TextInput"),
+                new InputDTO<IFormType<DateTime>>(new DateInput(DateTime.Now), "Date"),
+                new InputDTO<IFormType<bool>>(new CheckInput(false),"RadioButton"),
             };
 
             var options = new JsonSerializerOptions
             {
                 PropertyNameCaseInsensitive = true
-            };
+            };            
             return Json(data, options);
         }
 
         [HttpPost]
         [Route("{action}")]
-        public IActionResult PostForm(List<FormType<object>>  forms)
+        public IActionResult PostForm(List<InputDTO<object>> forms)
         {
-            List<FormType<object>> listForm = forms;           
+            List<InputDTO<object>> listForm = forms;           
             return Ok();
         }
     }

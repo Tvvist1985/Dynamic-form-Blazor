@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Forma.Client",
   "resources": {
-    "hash": "sha256-mhCzmkXOyNpXTiOKUBTSuMzCXWGrfULc8sv36WvR4OE=",
+    "hash": "sha256-oAVaC4G1WwLy5iN1ZmDihdhRFZRjNcqbh6kOmtdz6Pk=",
     "runtime": {
       "dotnet.6.0.25.5ziexhccuc.js": "sha256-1jUGCCSGH9JWhkqbHdQk8JBjBI8K/VC63En5zlypVps=",
       "dotnet.timezones.blat": "sha256-KsGUR9nqtXb3Hy6IrNlnc1HoSS+AFlsXTX9rq4oChtA=",
@@ -201,14 +201,14 @@
       "mscorlib.dll": "sha256-veli+XvWHzkA3s4t4DKI+XiyNMpfHQjiO002+ExANkU=",
       "netstandard.dll": "sha256-O9JhHo5KqxkmwmapuxuhG/iMRV7RHcrCDO9z+yv+8yI=",
       "System.Private.CoreLib.dll": "sha256-6rKu8tPdUGsvbSpesoNMVzbx7bNqPRMPV34eI7vSYaQ=",
-      "Forma.Shared.dll": "sha256-aDKo0rnxf4tuK6QSiL+mT3YrwXPbApIcLqtS6axVN9Y=",
-      "Model.dll": "sha256-sR0qS5Zp4Kfes9z/4scR5ZYeA1ez56irpGPTCdE/onc=",
-      "Forma.Client.dll": "sha256-tMtaNNRFiHfNqiAuDlv7cvJbn/UC18Je/2OsURLqUic="
+      "Forma.Shared.dll": "sha256-hXcLNlfHz6Pt4W3mEW8kuvFvnuRY0Mp/4IRhfGVX4aA=",
+      "Model.dll": "sha256-Otw/ETJSsFHPr18JBpML+P//2x2nAIARB1QrVWtEC94=",
+      "Forma.Client.dll": "sha256-U1oPLWNjadEWeDLd1bZkRWnbGKoEZ6pu3Z4hEkJFIUk="
     },
     "pdb": {
-      "Model.pdb": "sha256-kTWnXTi4UW340+HTmqhMr0s5SgWrhj0het2pwOnWJEY=",
-      "Forma.Shared.pdb": "sha256-0HbvKRxXEPLTDUDwF3JUVocupAGgLsMyw2TiyNav968=",
-      "Forma.Client.pdb": "sha256-crhGI6UznVuxUR2onmGdGJtof4CPRZI9DaDjGAmTW24="
+      "Model.pdb": "sha256-k6R1dGlHjsuHmZXzzLwl6mSeCPjWmAL1A0olkk+9hc4=",
+      "Forma.Shared.pdb": "sha256-kxMG8kXR16fX1Zk4+l8shzrWJ3yHT38yO4F2s6vl6Sc=",
+      "Forma.Client.pdb": "sha256-3lF+cvNJg66g6vHcD1tFLwnyq3vuIye8kUz3mQm+knY="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
