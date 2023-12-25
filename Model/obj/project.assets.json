@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Twist\\Desktop\\Forma\\Model\\Model.csproj",
+      "projectUniqueName": "E:\\Forma\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\Twist\\Desktop\\Forma\\Model\\Model.csproj",
+      "projectPath": "E:\\Forma\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\Twist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Twist\\Desktop\\Forma\\Model\\obj\\",
+      "outputPath": "E:\\Forma\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Twist\\AppData\\Roaming\\NuGet\\NuGet.Config",

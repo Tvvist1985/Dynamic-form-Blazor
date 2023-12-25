@@ -1295,11 +1295,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Twist\\Desktop\\Forma\\Server\\Forma.Server.csproj",
+      "projectUniqueName": "E:\\Forma\\Server\\Forma.Server.csproj",
       "projectName": "Forma.Server",
-      "projectPath": "C:\\Users\\Twist\\Desktop\\Forma\\Server\\Forma.Server.csproj",
+      "projectPath": "E:\\Forma\\Server\\Forma.Server.csproj",
       "packagesPath": "C:\\Users\\Twist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Twist\\Desktop\\Forma\\Server\\obj\\",
+      "outputPath": "E:\\Forma\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Twist\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1316,14 +1316,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Twist\\Desktop\\Forma\\Client\\Forma.Client.csproj": {
-              "projectPath": "C:\\Users\\Twist\\Desktop\\Forma\\Client\\Forma.Client.csproj"
+            "E:\\Forma\\Client\\Forma.Client.csproj": {
+              "projectPath": "E:\\Forma\\Client\\Forma.Client.csproj"
             },
-            "C:\\Users\\Twist\\Desktop\\Forma\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\Twist\\Desktop\\Forma\\Model\\Model.csproj"
+            "E:\\Forma\\Model\\Model.csproj": {
+              "projectPath": "E:\\Forma\\Model\\Model.csproj"
             },
-            "C:\\Users\\Twist\\Desktop\\Forma\\Shared\\Forma.Shared.csproj": {
-              "projectPath": "C:\\Users\\Twist\\Desktop\\Forma\\Shared\\Forma.Shared.csproj"
+            "E:\\Forma\\Shared\\Forma.Shared.csproj": {
+              "projectPath": "E:\\Forma\\Shared\\Forma.Shared.csproj"
             }
           }
         }

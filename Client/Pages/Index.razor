@@ -48,7 +48,7 @@
     {
         var request = Http.CreateClient();
         string path = Path.Combine("https://localhost:44363/", "WeatherForecast");
-        var responce = await request.GetAsync(path);  
+        using var responce = await request.GetAsync(path);  
 
         var options = new JsonSerializerOptions
             {
@@ -69,7 +69,7 @@
             {
                 PropertyNameCaseInsensitive = true
             };
-        var responce = await request.PostAsJsonAsync(path, formItems, options);
+       using var responce = await request.PostAsJsonAsync(path, formItems, options);
     }  
 
     void AddFormItem(List<InputDTO<object>> result)

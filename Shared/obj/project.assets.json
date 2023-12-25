@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Twist\\Desktop\\Forma\\Shared\\Forma.Shared.csproj",
+      "projectUniqueName": "E:\\Forma\\Shared\\Forma.Shared.csproj",
       "projectName": "Forma.Shared",
-      "projectPath": "C:\\Users\\Twist\\Desktop\\Forma\\Shared\\Forma.Shared.csproj",
+      "projectPath": "E:\\Forma\\Shared\\Forma.Shared.csproj",
       "packagesPath": "C:\\Users\\Twist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Twist\\Desktop\\Forma\\Shared\\obj\\",
+      "outputPath": "E:\\Forma\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Twist\\AppData\\Roaming\\NuGet\\NuGet.Config",

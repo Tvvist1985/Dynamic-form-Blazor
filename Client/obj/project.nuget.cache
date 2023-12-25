@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z1kwoy2VDrTsiLcdtZLVaNIQP6qXrYOE6uaB8rMr/hSLL95LYcIzwhBe0NBk6z47AS48ybfp9fbacp5RKtkhww==",
+  "dgSpecHash": "R0ZoNJUgll/B89SZyJe+Ldm5Mm3wTPcVGFY+eHo7ezKLQJ/MQFrlyGxD+Fi/3eqRPhTDu/snk1P5mQww9PVdbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Twist\\Desktop\\Forma\\Client\\Forma.Client.csproj",
+  "projectFilePath": "E:\\Forma\\Client\\Forma.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Twist\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.24\\microsoft.aspnetcore.authorization.6.0.24.nupkg.sha512",
     "C:\\Users\\Twist\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.24\\microsoft.aspnetcore.components.6.0.24.nupkg.sha512",

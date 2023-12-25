@@ -877,17 +877,17 @@
       "url": "_framework\/Forma.Shared.pdb"
     },
     {
-      "hash": "sha256-kGIs6YkEwmmEKEnVbC2D+gmma1rRwUt1LPMy4yTLlkM=",
+      "hash": "sha256-U1oPLWNjadEWeDLd1bZkRWnbGKoEZ6pu3Z4hEkJFIUk=",
       "url": "_framework\/Forma.Client.dll"
     },
     {
-      "hash": "sha256-QJ9pJv8TyN4JGQ7did1Gx0LyGG1h\/hL1GQflZgGtMMk=",
+      "hash": "sha256-3lF+cvNJg66g6vHcD1tFLwnyq3vuIye8kUz3mQm+knY=",
       "url": "_framework\/Forma.Client.pdb"
     },
     {
-      "hash": "sha256-c98jz98w0FKtCXwFSsh8610ZLVfKSfHRnVhTo88\/1xE=",
+      "hash": "sha256-SZxtaHEdpwXzsEP7P2MLbUNpLp\/HFnVoKfZQAZWDt\/s=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "5w5Kl2dK"
+  "version": "mMyPPpGA"
 };
